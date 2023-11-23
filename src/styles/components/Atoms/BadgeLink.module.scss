@@ -1,0 +1,11 @@
+.BadgeLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .BadgeLinkIcon{
+        path{
+            fill: #f1f1f1;
+        }
+    }
+}
